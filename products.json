@@ -1,0 +1,263 @@
+[
+    {
+        "name": "Sony WH-1000XM4",
+        "price": 349.99,
+        "description": "Industry-leading noise canceling with Dual Noise Sensor technology.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "image123",
+                "url": "https://example.com/sony-wh-1000xm4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Sony",
+        "stock": 50,
+        "numOfReviews": 128,
+        "reviews": [
+            {
+                "name": "Alice",
+                "rating": 5,
+                "comment": "Amazing sound quality and noise cancellation."
+            },
+            {
+                "name": "Bob",
+                "rating": 4,
+                "comment": "Very comfortable and great battery life."
+            }
+        ],
+        "createdAt": "2024-07-19T10:30:00Z"
+    },
+    {
+        "name": "Apple MacBook Pro",
+        "price": 2399.99,
+        "description": "The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "image456",
+                "url": "https://example.com/macbook-pro.jpg"
+            }
+        ],
+        "category": "Laptop",
+        "seller": "Apple",
+        "stock": 20,
+        "numOfReviews": 256,
+        "reviews": [
+            {
+                "name": "Charlie",
+                "rating": 5,
+                "comment": "Incredible performance and battery life."
+            },
+            {
+                "name": "Dana",
+                "rating": 5,
+                "comment": "Best laptop for developers and creatives."
+            }
+        ],
+        "createdAt": "2024-07-18T15:00:00Z"
+    },
+    {
+        "name": "Nikon D3500",
+        "price": 499.99,
+        "description": "Compact, easy to use, and versatile are all hallmarks of the Nikon D3500.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "image789",
+                "url": "https://example.com/nikon-d3500.jpg"
+            }
+        ],
+        "category": "Camera",
+        "seller": "Nikon",
+        "stock": 35,
+        "numOfReviews": 97,
+        "reviews": [
+            {
+                "name": "Eve",
+                "rating": 5,
+                "comment": "Perfect camera for beginners."
+            },
+            {
+                "name": "Frank",
+                "rating": 4,
+                "comment": "Great value for the price."
+            }
+        ],
+        "createdAt": "2024-07-17T09:00:00Z"
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "price": 799.99,
+        "description": "Samsung's flagship phone with 5G capability and advanced camera features.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "image101",
+                "url": "https://example.com/samsung-galaxy-s21.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Samsung",
+        "stock": 100,
+        "numOfReviews": 300,
+        "reviews": [
+            {
+                "name": "Grace",
+                "rating": 5,
+                "comment": "Excellent phone with amazing features."
+            },
+            {
+                "name": "Hank",
+                "rating": 4,
+                "comment": "Great phone but a bit expensive."
+            }
+        ],
+        "createdAt": "2024-07-16T11:00:00Z"
+    },
+    {
+        "name": "Dell XPS 13",
+        "price": 1299.99,
+        "description": "Dell's top ultrabook with a stunning display and powerful performance.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "image202",
+                "url": "https://example.com/dell-xps-13.jpg"
+            }
+        ],
+        "category": "Laptop",
+        "seller": "Dell",
+        "stock": 45,
+        "numOfReviews": 150,
+        "reviews": [
+            {
+                "name": "Ivy",
+                "rating": 5,
+                "comment": "Sleek design and great battery life."
+            },
+            {
+                "name": "Jack",
+                "rating": 4,
+                "comment": "Solid performance but a bit pricey."
+            }
+        ],
+        "createdAt": "2024-07-15T13:45:00Z"
+    },
+    {
+        "name": "GoPro HERO9",
+        "price": 399.99,
+        "description": "Advanced action camera with 5K video and front display.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "image303",
+                "url": "https://example.com/gopro-hero9.jpg"
+            }
+        ],
+        "category": "Camera",
+        "seller": "GoPro",
+        "stock": 70,
+        "numOfReviews": 200,
+        "reviews": [
+            {
+                "name": "Kate",
+                "rating": 5,
+                "comment": "Perfect for capturing adventures."
+            },
+            {
+                "name": "Leo",
+                "rating": 4,
+                "comment": "Great features but a bit bulky."
+            }
+        ],
+        "createdAt": "2024-07-14T08:30:00Z"
+    },
+    {
+        "name": "Bose QuietComfort 35 II",
+        "price": 299.99,
+        "description": "Wireless Bluetooth headphones with world-class noise cancellation.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "image404",
+                "url": "https://example.com/bose-qc35-ii.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Bose",
+        "stock": 60,
+        "numOfReviews": 180,
+        "reviews": [
+            {
+                "name": "Mia",
+                "rating": 5,
+                "comment": "Incredible noise cancellation and comfort."
+            },
+            {
+                "name": "Nate",
+                "rating": 4,
+                "comment": "Superb sound quality but a bit pricey."
+            }
+        ],
+        "createdAt": "2024-07-13T10:00:00Z"
+    },
+    {
+        "name": "Amazon Echo Dot (4th Gen)",
+        "price": 49.99,
+        "description": "Smart speaker with Alexa, voice control, and sleek design.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "image505",
+                "url": "https://example.com/echo-dot-4th-gen.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 150,
+        "numOfReviews": 500,
+        "reviews": [
+            {
+                "name": "Olivia",
+                "rating": 5,
+                "comment": "Great value and functionality."
+            },
+            {
+                "name": "Paul",
+                "rating": 4,
+                "comment": "Good device but limited sound quality."
+            }
+        ],
+        "createdAt": "2024-07-12T12:00:00Z"
+    },
+    {
+        "name": "Nike Air Zoom Pegasus 37",
+        "price": 119.99,
+        "description": "Running shoes with responsive cushioning and a secure fit.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "image606",
+                "url": "https://example.com/nike-pegasus-37.jpg"
+            }
+        ],
+        "category": "Clothes/Shoes",
+        "seller": "Nike",
+        "stock": 80,
+        "numOfReviews": 220,
+        "reviews": [
+            {
+                "name": "Quinn",
+                "rating": 5,
+                "comment": "Excellent comfort and support for running."
+            },
+            {
+                "name": "Riley",
+                "rating": 4,
+                "comment": "Great shoes but runs a bit small."
+            }
+        ],
+        "createdAt": "2024-07-11T14:00:00Z"
+    }
+]
